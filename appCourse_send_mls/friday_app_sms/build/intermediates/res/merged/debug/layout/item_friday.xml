@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <TextView android:id="@+id/id_tv_friday_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="#ffffff"
+        android:gravity="center"
+       />
+</android.support.v7.widget.CardView>
+<!-- From: file:/F:/AndroidStudioProjects/appCourse_send_mls/friday_app_sms/src/main/res/layout/item_friday.xml -->
