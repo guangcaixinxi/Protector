@@ -1,0 +1,1 @@
+include ':app', ':friday_app_sms'
