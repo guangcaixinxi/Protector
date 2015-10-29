@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">friday_app_sms</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_choose_message">ChooseMessageActivity</string>
-    <string name="title_activity_send_msg">SendMsgActivity</string>
-</resources>
